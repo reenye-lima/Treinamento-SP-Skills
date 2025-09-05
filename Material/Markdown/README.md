@@ -32,42 +32,23 @@ Assim, qualquer pessoa que acessar o repositório consegue entender rapidamente 
 
 ---
 
-# ⚡ Exemplos de Sintaxe do Markdown
+# 🗂️ Modelos utilizando Markdown
 
-## Títulos
+[**- Spec Kit**](https://github.com/github/spec-kit?tab=readme-ov-file)
 
-```markdown
-# Título 1
+[**- AgentScope**](https://github.com/agentscope-ai/agentscope)
 
-## Título 2
+---
 
-### Título 3
+# ⚡ Atividade (3H)
 
-```
+Atividade prática para alinhamento de conhecimento.
 
-## Ênfase
+- [ ] Criar um repositório privado no Github.
+- [ ] Adicionar o professor como contribuidor (`reenye-lima`).
+- [ ] Clonar o repositório para o computador.
+- [ ] O README.MD deve conter um passo-a-passo de como iniciar um projeto backend em node.
+- [ ] Editar o README.MD aplicando os conhecimentos sobre markdown.
+- [ ] Efetuar o commit com as alterações feitas.
 
-```markdown
-Este é **negrito**  
-
-Este é _itálico_  
-
-Este é ~~riscado~~
-```
-
-## Lista
-
-```markdown
-1. Primeiro item
-2. Segundo item
-3. Terceiro item
-```
-
-## Tabela
-
-```markdown
-Nome     | Função
--------- | -----------------
-Ana      | Desenvolvedora
-Carlos   | Tester
-```
+Deve-se utilizar os conhecimentos obtido nos estudos relacionados a markdown. Seguindo os parametros da competição não deve ser utilizado qualquer tipo de IA.
