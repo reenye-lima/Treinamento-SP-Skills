@@ -14,3 +14,12 @@
     - CRUD (Rest API)
     - Axios
     - Carrinho de Compras
+- JSON Server
+- Firebase (Firestore)
+
+|OBSs:|
+|-|
+|Roteiro Geral para candidatos a competir nas 3 Modalidades|
+|#08 - Desenvolvimento de Aplicativos Móveis|
+|#09 - Soluções de Software para Negócios|
+|#17 - Tecnologias WEB.pdf|
