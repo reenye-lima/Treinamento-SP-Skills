@@ -1,6 +1,6 @@
 # Treinamento-SP-Skills
 
-### Roteiro Inicial de Treinamento (Setembro/2025)
+### Roteiro Inicial de Treinamento (Setembro/Outubro/2025)
 - Atividades
   - MarkDown
   - Github
