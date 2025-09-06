@@ -1,7 +1,9 @@
 # Treinamento-SP-Skills
 
 ### Roteiro Inicial de Treinamento (Setembro/2025)
-- Atividades - MarkDown + Github
+- Atividades
+  - MarkDown
+  - Github
 - Front-End - Renderização
   - Documentos JSON
     - LocalStorage
