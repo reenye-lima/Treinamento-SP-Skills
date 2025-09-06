@@ -6,10 +6,11 @@
   - Github
 - Front-End - Renderização
   - Documentos JSON
-    - LocalStorage
+    - Modais
+    - Navegação ente Telas
     - Cards
     - Tabelas
-    - Modais
+    - LocalStorage
   - Fetch API
     - CRUD (Rest API)
     - Axios
